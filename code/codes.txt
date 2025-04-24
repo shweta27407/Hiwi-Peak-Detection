@@ -1,0 +1,1 @@
+scp -r D:\Hiwi-TimeSeries\dataset\new_datasets genty@ants.cs.ovgu.de:/home/genty/Hiwi-TimeSeries/Hiwi-TimeSeries/dataset/
